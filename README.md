@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Vu Dang
 
-<!--
-**vu0607/vu0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI CV Engineer / MLOps / AI Agents / LLMs .**
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=vu0607&color=blue)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💬 Talking about:
+**Deep Learning, AI, Computer Vision, Robotics**
+
+## 📩 Business inquiries:
+[![Email](https://img.shields.io/badge/Email-dangnguyenvu.work@gmail.com-blue)](mailto:dangnguyenvu.work@gmail.com)
+
+---
+
+## **Connect with me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vudangitwork/)
+
+---
+
+## **Languages and Tools**  
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## **GitHub Stats**  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vu0607&show_icons=true&theme=dark)  
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vu0607&layout=compact&theme=dark)  
+
